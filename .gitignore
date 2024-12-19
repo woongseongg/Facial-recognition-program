@@ -1,2 +1,5 @@
 *.jpg
 data/**/*.jpg
+
+data/captured_images/
+data/user_faces/
