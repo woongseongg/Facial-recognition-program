@@ -1,5 +1,10 @@
 *.jpg
 data/**/*.jpg
 
+# Ignore all files in data/captured_images and data/user_faces
 data/captured_images/
 data/user_faces/
+
+# Ignore PyCharm project files
+.idea/
+
